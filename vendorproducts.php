@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: RETAILER TODAY GROUP API PLUGIN
+Plugin Name: RETAILER TODAY GROUP API PLUGINs
 Plugin URI:  www.retailertoday.com
 Description: This describes my plugin in a short sentence
 Version:     1.0
