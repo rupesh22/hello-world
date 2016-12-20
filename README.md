@@ -1,5 +1,5 @@
 === RETAILER TODAY GROUP API PLUGIN ===
-Contributors: RETAILER TODAY GROUP
+Contributorsnew 1: RETAILER TODAY GROUP
 Donate link: www.retailertoday.com
 Tags: WooCommerce
 Requires at least:  3.0.1
